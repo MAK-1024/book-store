@@ -1,0 +1,1 @@
+const kTransDur = Duration(milliseconds: 250);
